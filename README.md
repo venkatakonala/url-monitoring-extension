@@ -4,7 +4,7 @@ URL Monitor for AppDynamics
 An AppDynamics Machine Agent extension to visit a set of URLs and report whether they are up or down (and optionally 
 whether certain text patterns appear on those pages).
 
-This extension requires the Java Machine Agent
+This extension requires the Java Machine Agent.
 
 ## Installation ##
 
